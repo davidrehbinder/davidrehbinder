@@ -8,7 +8,7 @@ I'm a tester.
 
 ### Where?
 
-I'm at [Kambi](https://github.com/kambisports)
+I'm currently in the process of changing employers.
 
 ### Why?
 
