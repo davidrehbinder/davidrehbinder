@@ -8,7 +8,7 @@ I'm a tester.
 
 ### Where?
 
-Currently employed as a consultant at [Alten](https://alten.se), and working at [Trafikförvaltningen](https://www.regionstockholm.se/verksamhet/kollektivtrafik/) with the online portion of public transport.
+Nowhere, at the moment.
 
 ### Why?
 
