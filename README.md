@@ -8,7 +8,7 @@ I'm a tester.
 
 ### Where?
 
-[Söderberg & Partner](https://soderbergpartner.se), at the moment.
+Somewhere
 
 ### Why?
 
