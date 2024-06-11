@@ -8,7 +8,7 @@ I'm a tester.
 
 ### Where?
 
-Somewhere
+I'm a consultant for Cartina AB, currently looking for an assignment.
 
 ### Why?
 
