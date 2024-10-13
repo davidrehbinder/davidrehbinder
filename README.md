@@ -8,7 +8,7 @@ I'm a tester.
 
 ### Where?
 
-I'm currently looking for a new job.
+I'm a consultant at [Avega](https://avega.se/)
 
 ### Why?
 
