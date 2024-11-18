@@ -8,6 +8,8 @@ I'm a tester.
 
 ### Where?
 
+Stockholm.
+
 ### Why?
 
 I'm using this account for work-related things.
