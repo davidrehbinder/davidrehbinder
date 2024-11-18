@@ -8,8 +8,6 @@ I'm a tester.
 
 ### Where?
 
-I'm a consultant at [Avega](https://avega.se/)
-
 ### Why?
 
 I'm using this account for work-related things.
